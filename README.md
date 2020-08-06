@@ -6,8 +6,9 @@ It's a demo showing Julia language capabilities [Avenga](https://avenga.com) val
 
 ## How to build
 
-1. Make sure you have *julia* installed.
-`brew cask install julia`
+1. Make sure you have **julia** installed.
+
+```brew cask install julia```
 
 2. Start Julia and install required dependencies
 ```julia
@@ -20,15 +21,15 @@ It's a demo showing Julia language capabilities [Avenga](https://avenga.com) val
 
 ## How to run locally
 
-1. Open *julia*
+1. Open **julia**
+
 `julia`
 
 2. Start notebook
-```using IJulia
-notebook()
-```
 
-3. Navigate local filesystem and open *AvengaLovesJulia-fractals.ipynb*
+`notebook()`
+
+3. Navigate local filesystem and open **AvengaLovesJulia-fractals.ipynb**
 
 ## Contact
 
