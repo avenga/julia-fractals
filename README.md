@@ -18,17 +18,15 @@ It's a demo showing Julia language capabilities [Avenga](https://avenga.com) val
   julia> Pkg.add("Interact")
   ```
 
-3. Build
-`npx webpack`
-
 ## How to run locally
 
 1. Open *julia*
 `julia`
 
 2. Start notebook
-`using IJulia`
-`notebook()`
+```using IJulia
+notebook()
+```
 
 3. Navigate local filesystem and open *AvengaLovesJulia-fractals.ipynb*
 
