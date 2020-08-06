@@ -10,7 +10,13 @@ It's a demo showing Julia language capabilities [Avenga](https://avenga.com) val
 `brew cask install julia`
 
 2. Start Julia and install required dependencies
-`
+```julia
+  julia> using Pkg
+    
+  julia> Pkg.add("IJulia")
+  julia> Pkg.add("Plots")
+  julia> Pkg.add("Interact")
+  ```
 
 3. Build
 `npx webpack`
