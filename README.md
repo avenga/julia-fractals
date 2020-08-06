@@ -27,7 +27,10 @@ It's a demo showing Julia language capabilities [Avenga](https://avenga.com) val
 
 2. Start notebook
 
-`notebook()`
+```julia
+  using IJulia
+  notebook()
+```
 
 3. Navigate local filesystem and open **AvengaLovesJulia-fractals.ipynb**
 
