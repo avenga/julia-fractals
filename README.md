@@ -1,4 +1,4 @@
-# Jukia fractals demoo - Avenga Labs falls in love with Julia
+# Julia fractals demo - Avenga Labs falls in love with Julia
 
 ## What is it
 
