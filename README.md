@@ -2,7 +2,7 @@
 
 ## What is it
 
-It's a demo showing Julia language capabilities [Avenga](https://avenga.com) values in VR.
+It's a demo showing Julia language capabilities by [Avenga](https://avenga.com) Labs.
 
 ## How to build
 
