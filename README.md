@@ -34,6 +34,8 @@ It's a demo showing Julia language capabilities by [Avenga](https://avenga.com) 
 
 3. Navigate local filesystem and open **AvengaLovesJulia-fractals.ipynb**
 
+4. For **Plots** libary overview please open **Plots overview.ipynb**
+
 ## Contact
 
 [Jacek Chmiel](jacek.chmiel@avenga.com)
